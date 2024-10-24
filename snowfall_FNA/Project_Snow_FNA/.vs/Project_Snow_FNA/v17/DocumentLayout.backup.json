@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|c:\\users\\cakyr\\desktop\\snowfall_fna\\project_snow_fna\\project_snow_fna\\snowfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|solutionrelative:project_snow_fna\\snowfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\project_snow_fna\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|solutionrelative:project_snow_fna\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\project_snow_fna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A57EA6-6942-4994-A229-D69EBB120800}|Project_Snow_FNA\\Project_Snow_FNA.csproj|solutionrelative:project_snow_fna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Snow_FNA\\Program.cs",
+              "ToolTip": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\Program.cs",
+              "RelativeToolTip": "Project_Snow_FNA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:09:14.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnowFall.cs",
+              "DocumentMoniker": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\SnowFall.cs",
+              "RelativeDocumentMoniker": "Project_Snow_FNA\\SnowFall.cs",
+              "ToolTip": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\SnowFall.cs",
+              "RelativeToolTip": "Project_Snow_FNA\\SnowFall.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwEEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:15:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snowflake.cs",
+              "DocumentMoniker": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\Snowflake.cs",
+              "RelativeDocumentMoniker": "Project_Snow_FNA\\Snowflake.cs",
+              "ToolTip": "C:\\Users\\cakyr\\Desktop\\snowfall_FNA\\Project_Snow_FNA\\Project_Snow_FNA\\Snowflake.cs",
+              "RelativeToolTip": "Project_Snow_FNA\\Snowflake.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCMAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:10:54.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

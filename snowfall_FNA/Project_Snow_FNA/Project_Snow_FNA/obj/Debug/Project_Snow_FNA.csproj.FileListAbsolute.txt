@@ -1,0 +1,12 @@
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Project_Snow_FNA.exe.config
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Project_Snow_FNA.exe
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Project_Snow_FNA.pdb
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\FNA.dll
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\obj\Debug\Project_Snow_FNA.csproj.AssemblyReference.cache
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\obj\Debug\Project_Snow_FNA.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\obj\Debug\Project_.5310329C.Up2Date
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\obj\Debug\Project_Snow_FNA.exe
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\obj\Debug\Project_Snow_FNA.pdb
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Content\background.png
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Content\flake_n_1.png
+C:\Users\cakyr\Desktop\snowfall_FNA\Project_Snow_FNA\Project_Snow_FNA\bin\Debug\Content\flake_n_2.png
